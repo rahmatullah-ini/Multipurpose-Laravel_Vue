@@ -1,0 +1,107 @@
+# Laravel
+/vendor/
+/node_modules/
+.env
+
+# Homestead
+Homestead.yaml
+Homestead.json
+
+# Composer
+/composer.phar
+/vendor-bin/
+
+# NPM
+npm-debug.log
+yarn-error.log
+/node_modules/
+npm-debug.log.*
+yarn-debug.log.*
+yarn-error.log.*
+.history
+
+# Testing
+/phpunit.xml
+/phpunit.xml.dist
+/tests/
+
+# Laravel Mix
+/mix-manifest.json
+/public/mix-manifest.json
+/public/build/
+/public/hot/
+
+# Vue.js
+/.idea/
+/.vscode/
+/node_modules/
+/dist/
+/npm-debug.log*
+
+# Laravel Passport
+/storage/*.key
+/storage/*.pem
+
+# SQLite database files
+/database/*.sqlite
+
+# Rocketeer
+/rocketeer.phar
+
+# phpspec
+/.phpspec.yml
+/spec/
+
+# Behat
+/vendor/behat/
+
+# Homestead
+/.vagrant/
+/.vagrantfile
+.vagrantbox
+
+# PHPStorm
+/.idea/
+*.iml
+*.iws
+*.ipr
+
+# SublimeText
+*.sublime-*
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Logs and databases
+/storage/logs/
+/storage/app/
+/storage/framework/
+/storage/debugbar/
+/storage/tmp/
+/bootstrap/cache/
+/.phpunit.result.cache
+/database/database.sqlite
+/database/*.sqlite3
+
+# User-specific files
+Homestead.yaml
+Homestead.json
+/manifest
+
+# Laravel Telescope
+/telescope/
+
+# Laravel Backup File
+/*.zip
+
+# Laravel Dusk
+/storage/screenshots/
+/storage/app/public/screenshots/
+/storage/logs/
+/storage/app/public/avatars/
+/storage/app/public/images/
+/public/horizon/
+
+# Laravel Horizon
+/storage/app/horizon/
